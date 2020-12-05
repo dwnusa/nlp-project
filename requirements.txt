@@ -1,0 +1,16 @@
+numpy==1.14
+tensorflow==1.10
+beautifulsoup4==4.6.0
+pandas==0.22.0
+matplotlib==2.1
+freee==3.0
+jupyter==1.0.0
+bs4
+html5lib
+wordcloud
+seaborn==0.8.1
+nltk
+gensim
+konlpy==0.5.2
+xgboost
+tqdm
